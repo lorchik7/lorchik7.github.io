@@ -1,0 +1,43 @@
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+.startup {
+	background: url(http://wall2born.com/data/out/310/image-47621356-polygon-wallpaper.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  height: 100%;
+}
+.font-styling {
+	color: aliceblue;
+    font-family: serif;
+}
+.title {
+	font-family: fantasy;
+    font-size: 4em;
+    font-weight: bold;
+    color: white;
+}
+.space30 {
+	margin-top: 30px;
+}
+.btn-primary {
+	border-radius: 15px;
+	width: 150px;
+    height: 50px;
+    font-size: 1.2em;
+}
+.container {
+	border: 2px solid aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.row {
+	border: 2px dashed aliceblue;
+    padding: 40px;
+}
